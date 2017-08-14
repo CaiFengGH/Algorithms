@@ -23,7 +23,7 @@ public class BubbleSort {
 	 * @param len 数组长度
 	 * @return int[] 数组
 	 */
-	public int[] bubbleSort1(int[] arr,int len){
+	public void bubbleSort1(int[] arr,int len){
 		//外循环表示遍历次数
 		for(i = len - 1; i > 0; i--){
 			//内循环表示比较交换操作
@@ -35,7 +35,6 @@ public class BubbleSort {
 				}
 			}
 		}
-		return arr;
 	}
 	
 	
@@ -45,7 +44,7 @@ public class BubbleSort {
 	 * @param len 数组长度
 	 * @return int[] 数组
 	 */
-	public int[] bubbleSort2(int[] arr,int len){
+	public void bubbleSort2(int[] arr,int len){
 		//flag表示是有一次遍历中有交换，0:没有  1:有
 		int flag = 0;
 		//外循环表示遍历次数
@@ -65,8 +64,6 @@ public class BubbleSort {
 				break;
 			}
 		}
-		
-		return arr;
 	}
 }
 ```
