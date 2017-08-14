@@ -12,6 +12,7 @@
 
 快速排序是不稳定的算法，排序前相等的两个数的位置会发生变化；
 
+
 ```
 /**
  * @author Ethan
@@ -59,3 +60,4 @@ public class QuickSort {
 }
 ```
 
+[图片详解](http://images.cnitblog.com/i/497634/201403/121659127078460.jpg)
