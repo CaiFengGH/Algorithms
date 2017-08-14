@@ -67,3 +67,5 @@ public class BubbleSort {
 	}
 }
 ```
+
+[图片详解](http://images.cnitblog.com/i/497634/201403/121521153545888.jpg)
