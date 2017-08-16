@@ -256,6 +256,7 @@ class QueueY{
 	private int[] arr;
 	private int front;
 	private int rear = -1;
+	private int numItems;
 	
 	public QueueY(int num){
 		this.MAX = num;
@@ -272,6 +273,7 @@ class QueueY{
 		if(rear == MAX - 1){
 			rear = -1;
 		}
+		numItems++;
 		return true;
 	}
 	
@@ -284,6 +286,7 @@ class QueueY{
 		if(front == MAX){
 			front = 0;
 		}
+		numItems--;
 		return temp;
 	}
 	
@@ -292,7 +295,7 @@ class QueueY{
 	 * @return boolean true:队列空
 	 */
 	public boolean isEmpty(){
-		return rear + 1 == front;
+		return numItems == 0;
 	}
 }
 ```
