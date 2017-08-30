@@ -76,3 +76,5 @@ public class MergeSort {
 	}
 }
 ```
+
+[图片理解](http://images.cnitblog.com/i/497634/201403/151853346211212.jpg)
