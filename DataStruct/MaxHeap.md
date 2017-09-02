@@ -170,3 +170,7 @@ public class MaxHeap<T extends Comparable<T>> {
 	}
 }
 ```
+
+[图示添加](http://images.cnitblog.com/i/497634/201403/182345301461858.jpg)
+
+[图示删除](http://images.cnitblog.com/i/497634/201403/182348387716132.jpg)
