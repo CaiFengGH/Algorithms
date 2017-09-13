@@ -1,4 +1,4 @@
->二叉树常用方法
+>二叉查找树常用方法
 
 - 定义
 
@@ -17,8 +17,6 @@
 一个子节点，仅需要改变其与父节点之间的关系；
 
 两个子节点，重点在于寻找后继节点，包括右节点和最左节点两种类型；
-
-- [二叉树一些性质](http://www.cnblogs.com/willwu/p/6007555.html) [B树的相关性质](http://www.cnblogs.com/oldhorse/archive/2009/11/16/1604009.html) [B树的操作示意图](http://blog.csdn.net/yang_yulei/article/details/26104921)
 
 ```
 /**
