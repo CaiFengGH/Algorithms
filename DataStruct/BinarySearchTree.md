@@ -18,6 +18,8 @@
 
 两个子节点，重点在于寻找后继节点，包括右节点和最左节点两种类型；
 
+[二叉搜索树的详解](http://blog.csdn.net/eson_15/article/details/51138663)
+
 ```
 /**
  * @author Ethan
