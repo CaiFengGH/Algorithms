@@ -10,3 +10,5 @@
 [博客专家July-深入理解KMP算法](http://blog.csdn.net/v_july_v/article/details/7041827)
 
 [遗传算法详解](http://blog.csdn.net/u010451580/article/details/51178225)
+
+[BitMap理解](https://www.jianshu.com/p/6082a2f7df8e)
