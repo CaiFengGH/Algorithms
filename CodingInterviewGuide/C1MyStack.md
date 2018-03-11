@@ -38,7 +38,7 @@ public class C1MyStack {
 	//实现弹出规则：弹出stackData,同时弹出stackMin栈顶元素
 	public int pop(){
 		if(stackData.isEmpty()){
-			throw new RuntimeException();
+			throw new RuntimeException("栈为空，无最小元素");
 		}
 		stackMin.pop();
 		return stackData.pop();
@@ -46,6 +46,9 @@ public class C1MyStack {
 	
 	//实现获取最小值
 	public int getMin(){
+		if(stackMin.isEmpty()){
+			throw new RuntimeExcpetion("栈为空，无最小元素");
+		}
 		return stackMin.peek();
 	}
 }
