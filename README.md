@@ -11,6 +11,8 @@
 
 - [遗传算法详解](http://blog.csdn.net/u010451580/article/details/51178225)
 
+- [动态规划入门篇](http://blog.csdn.net/baidu_28312631/article/details/47418773)
+
 
 
 
