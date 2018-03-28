@@ -1,0 +1,58 @@
+>题目描述
+
+移除字符串中连续的k个0字符；
+
+```
+package Chapter5;
+
+/**
+ * @author Ethan
+ * @desc 移除字符串中连续k个'0' 
+ */
+public class C5RemoveKZeros {
+
+	public String removeKZeros(String str,int k){
+		//1-异常参数检测
+		if(str == null || str.length() < k){
+			return str;
+		}
+		//2-初始化 cha:字节数组 start:'0'开始位置 count:'0'数量 sb
+		char[] cha = str.toCharArray();
+		int start = -1;
+		int count = 0;
+		StringBuffer sb = new StringBuffer();
+		
+		//3-遍历字符串，进行判断
+		for(int i = 0; i < cha.length; i++){
+			//cha[i]=='0':更新start和count cha[i]!='0':更新start和count,同时删除'0'
+			if(cha[i] != '0'){
+				if(count == k){
+					while(count != 0){
+						count--;
+						cha[start++] = 0;
+					}
+				}	
+				start = -1;
+				count = 0;
+			}else{
+				count++;
+				start = start == -1 ? i : start;
+			}
+		}
+		//4-字符串以'0'结尾的异常情况
+		if(count == k){
+			while(count != 0){
+				count--;
+				cha[start++] = 0;
+			}
+		}	
+		for(int i = 0; i < cha.length; i++){
+			if(cha[i] == 0){
+				continue;
+			}
+			sb.append(cha[i]);
+		}
+		return sb.toString();
+	}
+}
+```
