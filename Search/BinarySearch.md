@@ -45,7 +45,7 @@ public class BinarySearch {
 	}
 	
 	/**
-	 * @desc 基于迭代的二分查找
+	 * @desc 基于递归的二分查找
 	 * @param arr 数组
 	 * @param left 左边界
 	 * @param right 右边界
