@@ -85,6 +85,7 @@ public class HashDouble {
 			if(hashArr[hashVal].getKey() == key){
 				Item temp = hashArr[hashVal];
 				hashArr[hashVal] = delItem;
+				itemNum--;
 				return temp;
 			}
 			hashVal += step;
