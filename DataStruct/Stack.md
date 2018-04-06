@@ -65,8 +65,9 @@ public class ArrayStack {
 			System.out.println("栈为空");
 			return;
 		}
-		while(top >= 0){
-			System.out.println(arr[top--]);
+		int tmp = top;
+		while(tmp >= 0){
+			System.out.println(arr[tmp--]);
 		}
 	}
 }
