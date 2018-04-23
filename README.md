@@ -13,6 +13,8 @@
 
 - [动态规划入门篇](http://blog.csdn.net/baidu_28312631/article/details/47418773)
 
+- [剑指OfferJava版](https://blog.csdn.net/baiye_xing/article/details/78428561)
+
 
 
 
