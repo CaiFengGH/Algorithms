@@ -6,7 +6,7 @@
 - [博客专家July-海量数据处理](http://blog.csdn.net/v_july_v/article/category/1106578)
 
 - [BitMap理解](https://www.jianshu.com/p/6082a2f7df8e) [BloomFilter系列文章](http://blog.csdn.net/jiaomeng/article/category/275566)
-
+  [BloomFilter数学](http://www.cnblogs.com/allensun/archive/2011/02/16/1956532.html)
 - [博客专家July-深入理解KMP算法](http://blog.csdn.net/v_july_v/article/details/7041827)
 
 - [遗传算法详解](http://blog.csdn.net/u010451580/article/details/51178225)
