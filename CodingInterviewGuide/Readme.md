@@ -20,6 +20,8 @@
 
 - C5ReplaceAndModify：替换字符串中内容；
 
+- C5PointNewChar：返回索引k位置的新字符，新字符的定义参看代码；
+
 - C7SwapTwoInt：交换两个整数的值，基于异或的性质；
 
 - C7GetMax：不使用条件判断符，返回两个整数间的较大值；
