@@ -13,7 +13,7 @@ public class BinaryTreeIterator {
 
 	/**
 	 * @author Ethan
-	 * @desc 二叉树的中序遍历
+	 * @desc 二叉树的前序遍历
 	 */
 	public void preOrder(TreeNode root){
 		//1-异常参数检测
