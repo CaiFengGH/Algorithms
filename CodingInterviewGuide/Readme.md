@@ -40,6 +40,12 @@
 
 - C5PointNewChar：返回索引k位置的新字符，新字符的定义参看代码；
 
+- C5RemoveKZeros：去除字符串中连续出现k个o的字串；
+
+- C5IsDeformation：判断两个字符串是否互为变形词；
+
+- C5NumSum：字符串中数字字串的求和；
+
 - C7SwapTwoInt：交换两个整数的值，基于异或的性质；
 
 - C7GetMax：不使用条件判断符，返回两个整数间的较大值；
