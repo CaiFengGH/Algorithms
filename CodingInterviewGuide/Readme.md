@@ -2,6 +2,24 @@
 
 程序员代码面试指南 作者：左程云
 
+- C1MyStack：设计一个有getMin功能的栈；
+
+- C1StackSortByStack：用一个栈实现另一个栈的排序；
+
+- C1TwoStacksQueue：由两个栈实现的队列；
+
+- C2InsertNum：在有序的环形单链表中插入新节点；
+
+- C2Merge：合并两个有序的单链表；
+
+- C2PrintCommonPart:打印两个有序链表的公共部分；
+
+- C2RemoveRepeat：删除无序单链表中值重复出现的节点；
+
+- C2RemoveValue：在单链表中删除指定的值；
+
+- C2ReversePart：反转部分单链表；
+
 - C4Jump：给定数组arr，arr[i] == k代表向右移动1~k步，返回最少几步跳回到数组末尾；
 
 - C4LongestConsecutive：给定数组arr，返回其中连续最长子序列的长度，如[100,2,200,1,3,4]，应返回4；
