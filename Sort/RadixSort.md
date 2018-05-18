@@ -56,8 +56,8 @@ public class RadixSort {
 		
 		//4-初始化tmp
 		for(int k = 0; k < len; k++){
-			tmp[bucket[(nums[k] / exp)] - 1] = nums[k];
-			bucket[(nums[k] / exp)]--;
+			tmp[bucket[(nums[i] / exp) % 10] - 1] = nums[k];
+			bucket[(nums[i] / exp) % 10]--;
 		}
 		
 		//5-重新初始化nums
