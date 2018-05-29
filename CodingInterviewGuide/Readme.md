@@ -53,3 +53,5 @@
 - C7AddMinus：使用位运算实现加减法，可以尝试扩展到乘除法；
 
 - C8ClockwisePrint：顺时针打印矩阵数组；
+
+- C8ClockwiseRotate90：将一个N * N的正方形数组旋转90度；
