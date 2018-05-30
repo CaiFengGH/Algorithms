@@ -59,3 +59,5 @@
 - C8PrintMatrixZigZag：之字形打印矩阵；
 
 - C8GetNextNode：获取节点的后继节点，后继节点为中序遍历中的下一个节点；
+
+- C8GetPostArray：根据树遍历的前序和中序数组返回后序遍历的数组；
