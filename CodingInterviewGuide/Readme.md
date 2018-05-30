@@ -57,3 +57,5 @@
 - C8ClockwiseRotate90：将一个N * N的正方形数组旋转90度；
 
 - C8PrintMatrixZigZag：之字形打印矩阵；
+
+- C8GetNextNode：获取节点的后继节点，后继节点为中序遍历中的下一个节点；
