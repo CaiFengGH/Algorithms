@@ -69,3 +69,5 @@
 - C8IsContains：在行列都排序的数组中判断是否包含某个值；
 
 - C8GetLargestSubarray：在数组中返回最大的可整合数组的长度；
+
+- C8GetMaxLength：未排序正数数组中累积和满足指定值的最大子数组的长度；
