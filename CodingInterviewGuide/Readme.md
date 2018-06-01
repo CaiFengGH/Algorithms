@@ -65,3 +65,5 @@
 - C8PrintMatrixZigZag：之字形打印矩阵；
 
 - C8GetMinLength：获取排序的最短子数组的长度；
+
+- C8IsContains：在行列都排序的数组中判断是否包含某个值；
