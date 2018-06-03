@@ -71,3 +71,6 @@
 - C8GetLargestSubarray：在数组中返回最大的可整合数组的长度；
 
 - C8GetMaxLength：未排序正数数组中累积和满足指定值的最大子数组的长度；
+
+- C8NaturalNumbersSort：以O(N)的事件复杂度实现自然数的排序；
+
