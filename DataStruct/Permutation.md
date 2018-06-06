@@ -17,7 +17,7 @@ public class Permutation {
 
 	public void permutation(char[] cha,int from,int to){
 		//1-异常参数判断和递归结束条件
-		if(to <= 1){
+		if(to < 1){
 			return ;
 		}else if(from == to){
 			System.out.println(String.valueOf(cha));
