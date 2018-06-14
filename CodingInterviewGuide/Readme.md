@@ -74,3 +74,5 @@
 
 - C8NaturalNumbersSort：以O(N)的事件复杂度实现自然数的排序；
 
+- C9Gcd：一行代码求解两个数的最大公约数；
+
