@@ -62,6 +62,8 @@
 
 - C8ClockwisePrint：顺时针打印矩阵数组；
 
+- C8MaxSum：子数组的最大累加和问题；
+
 - C8ClockwiseRotate90：将一个N * N的正方形数组旋转90度；
 
 - C8PrintMatrixZigZag：之字形打印矩阵；
