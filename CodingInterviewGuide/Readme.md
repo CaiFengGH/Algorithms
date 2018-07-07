@@ -10,6 +10,8 @@
 
 - C2InsertNum：在有序的环形单链表中插入新节点；
 
+- C2IntersectNodeInSingleLinkedList:两个单链表的相交节点，均无环和均有环情况；
+
 - C2Merge：合并两个有序的单链表；
 
 - C2PrintCommonPart:打印两个有序链表的公共部分；
