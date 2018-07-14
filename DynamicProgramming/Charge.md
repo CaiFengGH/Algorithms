@@ -44,5 +44,12 @@ public class Charge {
 		}
 		return dp[rows - 1][cols - 1];
 	}
+	
+	public static void main(String[] args) {
+		Charge c = new Charge();
+		int[] money = {1,2,5,10,20,50,100};
+		int amount = 5;
+		System.out.println(c.numOfCharge(money, amount));
+	}
 }
 ```
