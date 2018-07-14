@@ -4,6 +4,9 @@
 
 关键：n >= 5，剪去3的倍数，余下为4，则拆分为2*2；
 
+链接：[贪心算法之基础](https://www.cnblogs.com/MrSaver/p/8641971.html)
+[贪心算法之场景](https://blog.csdn.net/a345017062/article/details/52443781)
+
 ```
 package DayCode;
 
