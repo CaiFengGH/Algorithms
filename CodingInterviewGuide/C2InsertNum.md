@@ -65,8 +65,8 @@ public class C2InsertNum {
 	}
 	
 	public static void main(String[] args) {
-    //构建环形单链表
-    Node a = new Node(1);
+                //构建环形单链表
+                Node a = new Node(1);
 		Node b = new Node(3);
 		Node c = new Node(3);
 		Node d = new Node(7);
