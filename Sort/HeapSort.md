@@ -48,7 +48,7 @@ public class HeapSort {
 		int leftChild = current * 2 + 1;
 		int temp = 0;
 		
-		while(leftChild < end){
+		while(leftChild <= end){
 			temp = arr[current];
 			//比较左右子节点大小
 			if(leftChild < end && arr[leftChild] < arr[leftChild+1]){
