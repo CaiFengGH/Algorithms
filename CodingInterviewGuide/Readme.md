@@ -85,3 +85,5 @@
 - C9IsInTriangle:判断一个点是否在三角形内部，基于向量叉积方式判断；
 
 - C9IntIsPalindrome:判断一个整数值是否是回文整数，基于相同位数的help来代替左右指针；
+
+- C9GetUpMedianInSameLength:返回两个等长数组的上中位数的值；
