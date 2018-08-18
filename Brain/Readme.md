@@ -1,0 +1,1 @@
+- [1024阶乘尾部有多少个0](https://blog.csdn.net/czw698/article/details/25289007)
