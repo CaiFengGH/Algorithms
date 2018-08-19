@@ -8,6 +8,8 @@
 
 - C1TwoStacksQueue：由两个栈实现的队列；
 
+- C2CopyListWithRand：复杂链表的复制；
+
 - C2InsertNum：在有序的环形单链表中插入新节点；
 
 - C2IntersectNodeInSingleLinkedList:两个单链表的相交节点，均无环和均有环情况；
