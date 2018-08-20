@@ -34,6 +34,8 @@
 
 - C3GetPostArray：根据树遍历的前序和中序数组返回后序遍历的数组；
 
+- C3LowestAncestor：返回两个节点的最近公共祖先；
+
 - C4Jump：给定数组arr，arr[i] == k代表向右移动1~k步，返回最少几步跳回到数组末尾；
 
 - C4LongestConsecutive：给定数组arr，返回其中连续最长子序列的长度，如[100,2,200,1,3,4]，应返回4；
