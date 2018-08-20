@@ -14,6 +14,8 @@
 
 - C2InsertNum：在有序的环形单链表中插入新节点；
 
+- C2GenerateListByAdd：将两个代表的整数相加，并以整数的形式表示；
+
 - C2ListIsPalindrome：判断单链表是否是回文的；
 
 - C2IntersectNodeInSingleLinkedList:两个单链表的相交节点，均无环和均有环情况；
