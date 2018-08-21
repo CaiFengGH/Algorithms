@@ -90,6 +90,8 @@
 
 - C8NaturalNumbersSort：以O(N)的事件复杂度实现自然数的排序；
 
+- C8MaxLengthInUnSortArrayWithTarget：返回未排序整数数组中累加和满足给定值的最大子数组长度；
+
 - C9Gcd：一行代码求解两个数的最大公约数；
 
 - C9IsInRectangle：判断一个点是否在二维坐标的矩形中；
