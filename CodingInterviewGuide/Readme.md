@@ -72,6 +72,8 @@
 
 - C7AddMinus：使用位运算实现加减法，可以尝试扩展到乘除法；
 
+- C7GetOddTimesNum：所有数都出现了偶数次，两个数出现了奇数次，找出这两个数；
+
 - C8ClockwisePrint：顺时针打印矩阵数组；
 
 - C8MaxSum：子数组的最大累加和问题；
