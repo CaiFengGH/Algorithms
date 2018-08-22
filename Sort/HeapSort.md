@@ -8,6 +8,8 @@
 
 （2）arr[0]与arr[n-1]交换，则arr[n-1]为最大值，继而实现0到n-2的最大堆顺序；继续进行交换，知道arr[0]与arr[1]交换，实现有序后，则完成最大堆的升序排序；
 
+- [堆排序](http://www.cnblogs.com/skywang12345/p/3602162.html)
+
 ```
 /**
  * @author Ethan
