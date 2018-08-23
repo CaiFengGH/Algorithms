@@ -46,6 +46,10 @@
 
 - C4LongestCommonSeq：返回两个字符串的最长公共子序列；
 
+- C4LongestCommonSubstring：返回两个字符串的最长公共子串；
+
+- C4LongestIncreaseSeq：返回数组的最长递增子序列；
+
 - C4MinCost：给定一组不重合的钱币(钱币数量不定)和指定数目，返回满足条件的最少数目；
 
 - C5Convert：将整数字符串转换为整数，特别注意溢出情况；
