@@ -8,7 +8,7 @@
 
 - [AVL树](http://www.cnblogs.com/skywang12345/p/3577479.html)
 
-- [红黑树1](http://www.importnew.com/24930.html) [红黑树2](http://www.importnew.com/25125.html)
+- [红黑树](http://www.cnblogs.com/skywang12345/p/3245399.html)
 
 - [B树 B+树 B-树 B* 树](http://www.cnblogs.com/oldhorse/archive/2009/11/16/1604009.html) 
 [Trie树](http://blog.csdn.net/yang_yulei/article/details/26104921)
