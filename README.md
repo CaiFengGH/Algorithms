@@ -24,12 +24,6 @@
 
 - [博客专家July-深入理解KMP算法](http://blog.csdn.net/v_july_v/article/details/7041827)
 
->优化算法 
-
-- [遗传算法详解](http://blog.csdn.net/u010451580/article/details/51178225)
-
-- [动态规划入门篇](http://blog.csdn.net/baidu_28312631/article/details/47418773)
-
 >其他
 
 - [剑指OfferJava版](https://blog.csdn.net/baiye_xing/article/details/78428561)
