@@ -18,6 +18,8 @@
 
 - C2ListIsPalindrome：判断单链表是否是回文的；
 
+- C2SelectionSort：在单链表中实现选择排序；
+
 - C2IntersectNodeInSingleLinkedList:两个单链表的相交节点，均无环和均有环情况；
 
 - C2Merge：合并两个有序的单链表；
