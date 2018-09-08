@@ -100,6 +100,8 @@
 
 - C8MaxLengthInUnSortArrayWithTarget：返回未排序整数数组中累加和满足给定值的最大子数组长度；
 
+- C8MinPathSum：返回二维数组中的最小通路的长度；
+
 - C9Gcd：一行代码求解两个数的最大公约数；
 
 - C9IsInRectangle：判断一个点是否在二维坐标的矩形中；
