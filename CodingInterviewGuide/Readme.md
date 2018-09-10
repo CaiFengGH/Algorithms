@@ -10,6 +10,8 @@
 
 - C1MaxInWindow：滑动窗口寻找数组中最大值；
 
+- C2ReverseKNodes：单链表每隔k个节点反转；
+
 - C2CopyListWithRand：复杂链表的复制；
 
 - C2InsertNum：在有序的环形单链表中插入新节点；
