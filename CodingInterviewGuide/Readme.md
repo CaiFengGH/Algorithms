@@ -116,6 +116,8 @@
 
 - C8MaxMultiInArr：返回数组中子数组累乘的最大值；
 
+- C8GetKMinByHeap：通过最大堆返回无序数组中k个最小的数；
+
 - C9Gcd：一行代码求解两个数的最大公约数；
 
 - C9IsInRectangle：判断一个点是否在二维坐标的矩形中；
