@@ -118,6 +118,8 @@
 
 - C8GetKMinByHeap：通过最大堆返回无序数组中k个最小的数；
 
+- C8FindKMajor：寻找数组中出现次数大于N/K的元素；
+
 - C9Gcd：一行代码求解两个数的最大公约数；
 
 - C9IsInRectangle：判断一个点是否在二维坐标的矩形中；
