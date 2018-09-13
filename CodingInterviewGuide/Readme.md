@@ -92,6 +92,8 @@
 
 - C8MaxSumInMatrix：返回矩阵子矩阵中最大累加和；
 
+- C8GetLocalLeastIndex：获取数组中局部最小值的位置；
+
 - C8ClockwiseRotate90：将一个N * N的正方形数组旋转90度；
 
 - C8PrintMatrixZigZag：之字形打印矩阵；
