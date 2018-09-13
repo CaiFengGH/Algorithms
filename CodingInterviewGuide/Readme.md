@@ -44,6 +44,8 @@
 
 - C3IsBalance：判断一个书是否是平衡树；
 
+- C3GenerateAVLTree：由有序数组生成一个AVL树；
+
 - C4Jump：给定数组arr，arr[i] == k代表向右移动1~k步，返回最少几步跳回到数组末尾；
 
 - C4LongestConsecutive：给定数组arr，返回其中连续最长子序列的长度，如[100,2,200,1,3,4]，应返回4；
