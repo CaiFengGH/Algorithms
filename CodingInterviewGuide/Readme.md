@@ -46,6 +46,8 @@
 
 - C3IsBalance：判断一个书是否是平衡树；
 
+- C3IsPost：判断一个数组是否是二叉树的后序遍历；
+
 - C3GenerateAVLTree：由有序数组生成一个AVL树；
 
 - C4Jump：给定数组arr，arr[i] == k代表向右移动1~k步，返回最少几步跳回到数组末尾；
