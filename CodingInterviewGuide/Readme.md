@@ -82,6 +82,8 @@
 
 - C5IsUnique：判断给定字符数组中字符是否重复出现；
 
+- C5FindIndexInSortWithNull：在包含null的有序字符串数组中返回目标字符串的最左索引；
+
 - C7SwapTwoInt：交换两个整数的值，基于异或的性质；
 
 - C7GetMax：不使用条件判断符，返回两个整数间的较大值；
