@@ -36,6 +36,8 @@
 
 - C2RelocateWithLeftAndRight：将链表左右半区组合到一起；
 
+- C3TreeNodeNumInCBT：统计完全二叉树的节点数；
+
 - C3MorrisIn：基于Morris的中序遍历；
 
 - C3GetNextNode：获取节点的后继节点，后继节点为中序遍历中的下一个节点；
