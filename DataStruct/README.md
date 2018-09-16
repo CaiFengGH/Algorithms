@@ -2,6 +2,10 @@
 
 - [常见数据结构](http://www.cnblogs.com/lz3018/p/5932198.html)
 
+>栈
+
+- [单调栈](https://blog.csdn.net/wubaizhe/article/details/70136174)
+
 >跳跃表
 
 - [跳跃表](https://www.cnblogs.com/a8457013/p/8251967.html)
